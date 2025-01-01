@@ -2,7 +2,7 @@
 <h3 align="center">🌟 Software Developer | Backend & Frontend Specialist | Network Admin 🌟</h3>
 
 <p align="center">
-  <img src="https://fitgirl-repacks.site/wp-content/uploads/2016/08/cropped-icon-192x192.jpg" alt="Gabriel Plus Profile" width="150" height="150" style="border-radius:50%;">
+  <img src="https://fitgirl-repacks.site/wp-content/uploads/2016/08/cropped-icon-192x192.jpg" alt="Gabriel Plus Profile" />
 </p>
 
 <p align="center">
@@ -15,51 +15,39 @@
 
 ### 🚀 About Me
 
-<p align="center">
-  💻 A passionate **Software Developer** with expertise in both **Frontend** and **Backend** development.  
-  🌐 Skilled **Network Administrator** with experience in managing and optimizing servers and networks.  
-  🌱 Currently Building an **AI platform** using OpenAI API for solving complex problems in mobile apps and websites.  
-  💬 Open to discussions about **DevOps**, **Node.js**, **Linux**, and **Server Management**.
-</p>
+- 💻 A passionate **Software Developer** with expertise in both **Frontend** and **Backend** development.  
+- 🌐 Skilled **Network Administrator** with experience in managing and optimizing servers and networks.  
+- 🌱 Currently Building An AI platform using OpenAI API...that can be used to solve sort of problems in Mobile apps and Websites.  
+- 💬 Open to discussions about **DevOps**, **Node.js**, **Linux**, and **Server Management**.
 
 ---
 
 ### 💡 Tech Stack
 
 #### **Languages:**
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### **Frameworks & Libraries:**
-<p align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-</p>
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 #### **Tools & Platforms:**
-<p align="center">
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-</p>
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
 ### 📬 Get in Touch
 
-<p align="center">
-  📧 **Email:** gabrielplus2001@gmail.com  
-  🐦 **Twitter:** [@firewallnad](https://twitter.com/firewallnad)  
-</p>
+- 📧 **Email:** gabrielplus2001@gmail.com  
+- 🐦 **Twitter:** [@firewallnad](https://twitter.com/firewallnad)  
 
 ---
 
 ### 🌟 Fun Fact
-<p align="center">
-  I thrive on solving complex problems and enjoy working on innovative projects that make an impact!
-</p>
+I thrive on solving complex problems and enjoy working on innovative projects that make an impact!
