@@ -2,6 +2,10 @@
 <h3 align="center">🌟 Software Developer | Backend & Frontend Specialist | Network Admin 🌟</h3>
 
 <p align="center">
+  <img src="https://fitgirl-repacks.site/wp-content/uploads/2016/08/cropped-icon-192x192.jpg" alt="Gabriel Plus Profile" />
+</p>
+
+<p align="center">
   <a href="https://twitter.com/firewallnad" target="_blank">
     <img src="https://img.shields.io/twitter/follow/firewallnad?logo=twitter&style=for-the-badge" alt="Twitter Follow">
   </a>
